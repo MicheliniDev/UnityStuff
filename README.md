@@ -8,3 +8,11 @@ Clique no sinal de positivo e selecione um nome para tua tag
 <img src="./passo4.png"> 
 Agora basta retornar ao GameObject e selecionar a tag criada
 <img src="./passo5.png"> 
+
+Agora será possível utilizar aquela Tag no código:
+<img src="./passo6.png">
+
+Com esse código consegui achar o GameObject com a Tag Enemy e conectar os scripts PlayerMovement e Enemy
+
+Com isso se tornou possível utilizar funções do Script Enemy dentro do script PlayerMovement
+<img src="./passo7.png" width="600">
