@@ -1,7 +1,3 @@
-<video width="1000" height="500" controls>
-  <source src="Screen Recording 2024-08-09 193305.mp4" type="video/mp4">
-</video> 
-
 <h1>Como criar uma tag em um GameObject Unity</h1>
 Vá até o GameObject que deseja criar uma tag, e clique na opção <i>Untagged</i>
 <img src="./passo1.png"> 
